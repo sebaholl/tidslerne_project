@@ -6,7 +6,8 @@
         Become a Member of Tidslerne
       </h1>
       <p class="text-lg text-gray-700 mb-10">
-        Join our caring community and get access to events, knowledge, and a support system that empowers you.
+        Join our caring community and get access to events, knowledge, and a support system that
+        empowers you.
       </p>
       <a
         href="#form"
@@ -40,11 +41,11 @@
   <!-- Testimonial Video Section -->
   <section class="bg-white py-20 px-6 md:px-12">
     <div class="max-w-4xl mx-auto text-center">
-      <h2 class="text-3xl font-bold text-gray-800 mb-6">Hear from Our Members</h2>
+      <h2 class="text-3xl font-bold text-gray-800 mb-6">Hear from Our Chairwoman</h2>
       <div class="relative w-full pb-[56.25%]">
         <iframe
           class="absolute top-0 left-0 w-full h-full rounded-xl shadow-md"
-          src="https://www.youtube.com/embed/f6rSuJ2YheQ?si=Ru8u6tXmaMoQoQo9"
+          src="https://www.youtube.com/embed/mO7KbllKMgg?si=VnUhvsfop_H5QeDX"
           title="Testimonial from a member"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -59,7 +60,11 @@
   <section id="form" class="bg-gray-50 py-20 px-6 md:px-12">
     <div class="max-w-xl mx-auto">
       <h2 class="text-3xl font-bold text-center text-gray-800 mb-6">Membership Application</h2>
-      <form @submit.prevent="handleRegister" class="space-y-4" aria-label="Membership Registration Form">
+      <form
+        @submit.prevent="handleRegister"
+        class="space-y-4"
+        aria-label="Membership Registration Form"
+      >
         <label for="name" class="sr-only">Full Name</label>
         <input
           id="name"
@@ -147,5 +152,3 @@ html {
   scroll-behavior: smooth;
 }
 </style>
-
-

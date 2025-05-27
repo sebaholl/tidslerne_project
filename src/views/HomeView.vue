@@ -268,7 +268,7 @@ onMounted(() => {
         <div class="relative w-full pb-[56.25%] mb-6">
           <iframe
             class="absolute top-0 left-0 w-full h-full rounded-xl shadow-md"
-            src="https://www.youtube.com/watch?v=mO7KbllKMgg"
+            src="https://www.youtube.com/embed/mO7KbllKMgg?si=VnUhvsfop_H5QeDX"
             title="Mai Nielsen Story Video"
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

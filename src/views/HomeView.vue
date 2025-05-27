@@ -72,7 +72,7 @@ onMounted(() => {
   </p>
   <router-link
     to="/join"
-    class="inline-block px-6 py-3 bg-secondary text-white font-semibold rounded-xl hover:bg-pink-600 transition"
+    class="inline-block px-6 py-3 bg-pink-700 text-white font-semibold rounded-xl hover:bg-pink-500 transition"
   >
     Join Us
   </router-link>

@@ -90,7 +90,7 @@
     <div class="max-w-4xl mx-auto mb-16">
       <iframe
         title="Tidslerne Office Map"
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2259.410062090141!2d8.402011777066503!3d55.50780467299451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464b2083f067dfad%3A0x5777dc2443531a49!2s%C3%85dalsparken%2029%2C%206710%20Esbjerg%20Kommune!5e0!3m2!1scs!2sdk!4v1747596135091!5m2!1scs!2sdk"
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2259.410016175117!2d8.402011876796044!3d55.50780547299445!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x464b2083efeebbc5%3A0xa92d267b46fb8b98!2sKr%C3%A6ftforeningen%20Tidslerne!5e0!3m2!1sen!2sdk!4v1747826333123!5m2!1sen!2sdk"
         width="100%"
         height="300"
         style="border:0;"
@@ -144,3 +144,5 @@ const contacts = [
 
 <style scoped>
 </style>
+
+

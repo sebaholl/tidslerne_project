@@ -1,12 +1,12 @@
 <template>
   <div
     v-if="show"
-    class="fixed inset-0 bg-white z-50 flex flex-col items-center justify-start p-8 overflow-y-auto"
+    class="fixed inset-0 bg-white z-50 flex flex-col items-center justify-start p-8 overflow-y-auto mt-20"
   >
     <!-- Close Button -->
     <button
       @click="$emit('close')"
-      class="absolute top-6 right-6 text-gray-500 hover:text-black text-2xl"
+      class="absolute top-6 right-6 text-gray-500 hover:text-black text-3xl mt-10"
       aria-label="Close search"
     >
       &times;

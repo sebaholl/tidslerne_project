@@ -3,7 +3,7 @@
     <div class="max-w-6xl mx-auto">
 
       <!-- Hero Section -->
-      <div class="mb-12">
+      <div class="mb-12 mt-20">
         <h1 class="text-4xl font-bold text-center text-gray-800 !mb-8">Support. Share. Heal.</h1>
         <p class="text-center text-lg text-gray-600 max-w-2xl mx-auto">
           “Our events connect patients, survivors, and professionals in a space of compassion, knowledge, and community.”

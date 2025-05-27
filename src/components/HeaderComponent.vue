@@ -1,7 +1,7 @@
 <template>
   <header class="fixed top-0 left-0 w-full bg-white shadow z-50" role="banner">
     <nav
-      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center h-22 w-full"
+      class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-center h-30 w-full"
       role="navigation"
       aria-label="Main Navigation"
     >
@@ -16,12 +16,12 @@
   <img
     src="@/images/Logonew.svg"
     alt="Tidslerne logo"
-    class="h-40 w-auto"
+    class="h-50 w-auto"
   />
 </router-link>
 
         <!-- Desktop menu -->
-        <div class="hidden md:flex gap-x-6 items-center">
+        <div class="hidden md:flex gap-x-6 items-center text-xl">
           <!-- Premium link (vždy zobrazený) -->
           <router-link
             to="/premium"

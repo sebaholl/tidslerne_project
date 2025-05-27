@@ -1,6 +1,6 @@
 <template>
   <!-- Hero Section -->
-  <section class="relative py-20 px-6 md:px-12">
+  <section class="relative py-20 px-6 md:px-12 mt-20">
     <div class="max-w-5xl mx-auto text-center">
       <h1 class="text-4xl md:text-5xl font-bold text-[var(--color-primary)] mb-6">
         Become a Member of Tidslerne

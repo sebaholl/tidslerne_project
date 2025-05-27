@@ -12,7 +12,7 @@ library.add(faFacebookF, faInstagram)
     <!-- Logo -->
     <div class="flex flex-col items-center md:items-start">
       <!-- <img src="" alt="Tidslerne logo" class="w-32 mb-4" /> -->
-      <p class="text-sm text-pink-700">Together for care, strength and healing.</p>
+      <p class="text-lg text-pink-700">Together for care, strength and healing.</p>
     </div>
 
     <!-- Navigace – horizontální, centrovaná -->
@@ -42,7 +42,7 @@ library.add(faFacebookF, faInstagram)
 
         <!-- Instagram -->
         <a
-          href="https://www.instagram.com/tidslerne"
+          href="https://www.instagram.com/tidslerne_demo"
           target="_blank"
           rel="noopener"
           class="flex items-center gap-2 bg-white border border-gray-200 px-4 py-2 rounded-lg shadow hover:bg-gray-50 transition"

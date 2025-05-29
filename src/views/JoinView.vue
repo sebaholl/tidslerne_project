@@ -2,7 +2,7 @@
   <!-- Hero Section -->
   <section class="relative py-20 px-6 md:px-12 mt-20">
     <div class="max-w-5xl mx-auto text-center">
-      <h1 class="text-4xl md:text-5xl font-bold text-[var(--color-primary)] mb-6">
+      <h1 class="text-4xl md:text-5xl font-bold text-gray-800 mb-6">
         Become a Member of Tidslerne
       </h1>
       <p class="text-lg text-gray-700 mb-10">
@@ -26,7 +26,7 @@
         <div
           v-for="(benefit, index) in benefits"
           :key="index"
-          class="bg-white p-6 rounded-xl shadow text-center"
+          class="bg-white p-6 rounded-xl shadow text-center transition-transform duration-300 transform hover:scale-105 hover:shadow-lg"
         >
           <div class="text-4xl text-[var(--color-primary)] mb-4" aria-hidden="true">
             <i :class="benefit.iconClass"></i>
